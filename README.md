@@ -1,4 +1,4 @@
-# Bookshelf
+# My First Hanami [ Miftah MD ]
 
 Welcome to my new Hanami project!
 Hanami is Framework Ruby, faster, simple, and modern.
