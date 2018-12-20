@@ -1,6 +1,7 @@
 # Bookshelf
 
-Welcome to your new Hanami project!
+Welcome to my new Hanami project!
+Hanami is Framework Ruby, faster, simple, and modern.
 
 ## Setup
 
